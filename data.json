@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "nombre": "Motorola Moto G04s 64GB",
+        "precio": 194999,
+        "imagen": "./pages/ImagenNº1.png",
+        "desc": "Producto Liberado- Incluye Accesorios ."
+    },
+    {
+        "id": 2,
+        "nombre": "Motorola Moto G24 128 GB",
+        "precio": 249999,
+        "imagen": "./pages/ImagenNº2.png",
+        "desc": "Producto Liberado- Incluye Accesorios ."
+    },
+    {
+        "id": 3,
+        "nombre": "Motorola Moto G24 Power 128 GB",
+        "precio": 299999,
+        "imagen": "./pages/ImagenNº3.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 4,
+        "nombre": "Motorola Moto G35 5G 128 GB",
+        "precio": 431999,
+        "imagen": "./pages/ImagenNº4.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 5,
+        "nombre": "Motorola Moto G14 128 GB",
+        "precio": 289999,
+        "imagen": "./pages/ImagenNº5.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 6,
+        "nombre": "Motorola Moto G54 5G 128 GB",
+        "precio": 449999,
+        "imagen": "./pages/ImagenNº6.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 7,
+        "nombre": "Motorola Moto E14 64 GB",
+        "precio": 169999,
+        "imagen": "./pages/ImagenNº7.png",
+        "desc": "Producto Liberado- Incluye Accesorios ."
+    },
+    {
+        "id": 8,
+        "nombre": "Motorola Edge 50 Fusion 256 GB",
+        "precio": 699999,
+        "imagen": "./pages/ImagenNº8.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 9,
+        "nombre": "Motorola Edge 50 Pro 512 GB",
+        "precio": 1149999,
+        "imagen": "./pages/ImagenNº9.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 10,
+        "nombre": "Motorola Edge 40 Neo 256 GB",
+        "precio": 749.999,
+        "imagen": "./pages/ImagenNº10.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+
+    {
+        "id": 11,
+        "nombre": "Motorola Razr 50 Ultra 512 GB",
+        "precio": 1699999,
+        "imagen": "./pages/ImagenNº11.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 12,
+        "nombre": "Motorola Razr 40 256 GB",
+        "precio": 1312999,
+        "imagen":"./pages/ImagenNº12.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    },
+    {
+        "id": 13,
+        "nombre": "Motorola Razr 40 Ultra 512 GB",
+        "precio": 1813999,
+        "imagen": "./pages/ImagenNº13.png",
+        "desc": "Producto Liberado - Incluye Accesorios."
+    }
+    
+
+]
